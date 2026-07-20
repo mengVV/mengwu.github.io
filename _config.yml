@@ -21,7 +21,7 @@ repository               : "mengVV/mengwu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : "profile.png"
   name             : "Meng Wu"
   pronouns         : # example: "she/her"  
   bio              : "Incoming Ph.D. student at the University of Michigan working on generative AI, diffusion models, and computer vision."
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            :
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
 
   # Repositories and software development
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
