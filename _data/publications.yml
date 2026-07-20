@@ -1,0 +1,27 @@
+main:
+  - title: Generalization of Diffusion Models Arises with a Balanced Representation Space
+    authors: Zekai Zhang, Xiao Li, Xiang Li, Lianghe Shi, <strong>Meng Wu</strong>, Molei Tao, Qing Qu
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2026.
+
+  - title: "Coarse-to-Fine Hierarchical Alignment for UAV-based Human Detection using Diffusion Models"
+    authors: <strong>Meng Wu*</strong>, Wenda Li*, Lianghe Shi, Sungmin Eum, Heesung Kwon, Qing Qu
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation, 2026, under review.
+    notes: Equal contribution
+
+  - title: "A Closer Look at Model Collapse: From a Generation to Memorization Perspective"
+    authors: Lianghe Shi*, <strong>Meng Wu*</strong>, Huijie Zhang, Zekai Zhang, Molei Tao, Qing Qu
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems, 2025.
+    notes: Spotlight · Top 3% · Equal contribution
+
+  - title: "VIP: Versatile Image Outpainting Empowered by Multimodal Large Language Model"
+    authors: Jinze Yang, Haoran Wang, Zining Zhu, Chenglong Liu, <strong>Meng Wu</strong>, Mingming Sun
+    conference_short: ACCV
+    conference: Asian Conference on Computer Vision, 2024.
+
+  - title: "Convolution Meets Transformer: Efficient Hybrid Transformer for Semantic Segmentation with Very High Resolution Imagery"
+    authors: Yuji Wang, Ruojun Zhao, Shicai Wei, <strong>Meng Wu</strong>, Luo Yang, Chunbo Luo
+    conference_short: IGARSS
+    conference: IEEE International Geoscience and Remote Sensing Symposium, 2024.
